@@ -21,11 +21,25 @@ I am a Ph.D student in School of Computer Science at Fudan University, advised b
 
 I obtained a bachelor's degree from Intelligent Science and Technology (Honors Program) at Fudan University.
 
-My research interests mainly lie in NLP, focusing on LLM alignment and reasoning.
+My research interests mainly lie in LLM, focusing on alignment and reasoning.
 
+📄 [CV](../CV_Enyu_zhou__Eng_v_%20(2).pdf)
 
 # 📚 Selected Publications 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=gWs_6egAAAAJ) page for the full publication list.
+
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/sio.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**(ICLR'2025)** [Steering LLMs via Scalable Interactive Oversight](https://arxiv.org/pdf/2410.09893)
+
+**Enyu Zhou**, Zhiheng Xi, Long Ma, Zhihao Zhang, Shihan Dou, Zhikai Lei, Guoteng Wang, Rui Zheng, Hang Yan, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- Studied the scalable oversight challenge in agentic LLM systems by introducing an interaction agent that decomposes vague user intent into structured, low-effort decisions for pre-execution alignment.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,3 +95,8 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 # 📖 Educations
 - *2023.06 - Present*, School of Computer Science, Fudan University
 - *2019.09 - 2023.06*, School of Information Science and Technology, Fudan University
+
+
+# 👩‍💻 Internships
+- *2024.12 - Present*, Research Intern, China Qijizhifeng Ltd.Co, Shanghai
+  - Core contributor to the post-training of an agentic model, focusing on coding abilities. [Nex-N1](https://arxiv.org/abs/2512.04987)
