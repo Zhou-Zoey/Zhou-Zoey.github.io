@@ -31,7 +31,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=gWs_6
 <div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/sio.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(ICLR'2025)** [Steering LLMs via Scalable Interactive Oversight](https://arxiv.org/pdf/2410.09893)
+[Steering LLMs via Scalable Interactive Oversight](https://arxiv.org/abs/2602.04210)
 
 **Enyu Zhou**, Zhiheng Xi, Long Ma, Zhihao Zhang, Shihan Dou, Zhikai Lei, Guoteng Wang, Rui Zheng, Hang Yan, Tao Gui, Qi Zhang, Xuanjing Huang
 
